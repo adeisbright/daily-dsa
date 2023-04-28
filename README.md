@@ -1,2 +1,6 @@
 # data-structures-and-algorithm-with-js
-Understanding Data Structures and Algorithm using JavaScript
+
+Strengthning Memory and Staying in the Game by crunching one problem
+each day.
+
+The data structures, and problems are organized folder by folder.
